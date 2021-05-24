@@ -1,15 +1,6 @@
 errors.txt
 logs
-.env.local
 env-local
 .idea/debug.log
-.vscode/debug.log
-node_modules/.gitignore
-ide/local.env.txt
 all.swat
-code/show.swa
-npm-debug.logger
 ideal_code.php
-code
-ide
-.idea
